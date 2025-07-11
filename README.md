@@ -1,11 +1,20 @@
 # Hi there 👋
-I'm Anthon, an aspiring developer from the Philippines 🇵🇭!
-
-🌱 I’m currently learning **Node.js**, **ExpressJS**, **Mongoose**, and **ReactJS**.
-
+### I'm Anthon, an aspiring developer from the Philippines👨‍💻
+🌱 I’m currently learning **Web Development**
 📫 How to reach me: anthonlouisenoynay123@gmail.com
 
-![MuaKissGIF](https://github.com/user-attachments/assets/3f8e8a81-081d-4be1-a211-eb5fc67ba80a)
+## 🧠 Current Programming Language/Technologies:
+- Node.JS
+- ExpressJS
+- MongoDB
+- JavaScript
 
+## 🧠 More Future Programming Language/Technologies:
+- ReactJs
+- TypeScript
+- TailwindCSS
+- MySQL
+- Figma
 
-: >
+# ℹ️ More Information about me:
+- coming soon
