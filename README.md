@@ -22,9 +22,8 @@
 ---
 
 ## 📫 Connect with me
-<a href="mailto:anthonlouisenoynay@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> anthonlouisenoynay123@gmail.com
+<br>
 <a href="https://www.facebook.com/anthonnnnlouiseee/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
