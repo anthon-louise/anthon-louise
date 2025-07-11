@@ -52,4 +52,4 @@
 
 ## 🤓 Fun Fact
 ✨ I love minimalism  
-✨ My favorite anime is MOB Psycho  
+✨ My favorite anime is MOB Psycho 
