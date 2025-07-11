@@ -9,7 +9,7 @@
 - MongoDB
 - JavaScript
 
-## 🌱 Future Programming Languages / Technologies
+## 🌱 Future Programming Languages / Technologies to Learn
 - ReactJs
 - TypeScript
 - TailwindCSS
