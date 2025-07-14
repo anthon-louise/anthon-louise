@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anthoniño Louise Noynay</h1>
-<h3 align="center">Self-taught developer from the Philippines 🇵🇭</h3>
+<h3 align="center">Self-taught developer </h3>
+
+---
+## 🧠 Quote I Live By:
+> "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
 
 ---
 
@@ -57,6 +61,6 @@
 
 ---
 
-## 🤓 Fun Fact
-✨ I love minimalism  
-✨ My favorite anime is MOB Psycho 
+## 🎬 Favorite Anime
+- 🔥 Mob Psycho 100
+- 🔥 Frieren
