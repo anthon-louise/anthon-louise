@@ -21,14 +21,21 @@
 
 ---
 
-## 📫 Connect with me
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> anthonlouisenoynay123@gmail.com
-<br>
-<a href="https://www.facebook.com/anthonnnnlouiseee/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+## 📫 Connect with Me
 
----
+<p align="center">
+  <a href="mailto:anthonlouisenoynay123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.facebook.com/anthonnnnlouiseee/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+</p>
+
+<p align="center">
+  📧 Email me at: <a href="mailto:anthonlouisenoynay123@gmail.com">anthonlouisenoynay123@gmail.com</a>
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
