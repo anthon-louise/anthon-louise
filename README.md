@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthoniño Louise Noynay</h1>
-<h3 align="center">Self-taught developer </h3>
-
----
-## 🧠 Quote I Live By:
-> "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
-
-
+<h1 align="center">Hi 👋</h1>
 
 ## 🧠 Current Programming Languages / Technologies
 - Node.JS
