@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Anthon!</h1>
 
-## 🧠 Current Programming Languages / Technologies
-- Node.JS
-- ExpressJS
-- MongoDB
-- JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,git,github" alt="Tech Stack" />
+</p>
 
-## 🌱 Future Programming Languages / Technologies to Learn
-- ReactJs
-- TypeScript
-- TailwindCSS
-- MySQL
-- Figma
-- Bootstrap
-- Git
-- GitHub
+---
+
+## 🧠 Tech Stack & Tools I Use
+- ⚙️ Node.js
+- 🔧 Express.js
+- 🗄️ MongoDB
+- 💻 JavaScript
+- 🔀 Git & GitHub
 
 ---
 
@@ -33,27 +30,34 @@
   📧 Email me at: <a href="mailto:anthonlouisenoynay123@gmail.com">anthonlouisenoynay123@gmail.com</a>
 </p>
 
+---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthon-louise&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anthon-louise&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anthon-louise&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anthon-louise&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthon-louise&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthon-louise&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🧭 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthon-louise&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=anthon-louise&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
 
 ---
 
 ## 🎬 Favorite Anime
-- 🔥 Mob Psycho 100
-- 🔥 Frieren
+- 🔥 **Mob Psycho 100**
+- ❄️ **Frieren: Beyond Journey’s End**
+
+---
+
