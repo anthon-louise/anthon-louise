@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Anthon Fullstack Developer</h1>
+<h1 align="center">Hi👋, I'm Anthon a Fullstack Developer</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,js,git,github,react" alt="Tech Stack" />
