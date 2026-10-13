@@ -47,8 +47,3 @@ I'm also upfront about how I work: I'm a programmer who **vibe codes**. I use AI
 
 - 📧 **Email:** [anthonlouisenoynay123@gmail.com](mailto:anthonlouisenoynay123@gmail.com)
 - 💬 **Facebook:** [Anthoniño Louise Noynay](https://www.facebook.com/profile.php?id=61585875337215)
-
-
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/8992605.png" alt="Banner animation" width="600" />
-</p>
