@@ -29,8 +29,8 @@ I'm also upfront about how I work: I'm a programmer who **vibe codes**. I use AI
 
 ### 📂 Practice Projects
 
-- [practice-fullstack-notes-crud](https://github.com/anthon-louise/practice-fullstack-notes-crud): create, read, update, and delete features
-- [practice-fullstack-notes-auth-ownership](https://github.com/anthon-louise/practice-fullstack-notes-auth-ownership): user login where users only access their own data
+- [practice-fullstack-crud](https://github.com/anthon-louise/practice-fullstack-crud): create, read, update, and delete features
+- [practice-fullstack-auth-ownership](https://github.com/anthon-louise/practice-fullstack-auth-ownership): user login where users only access their own data
 - [practice-fullstack-auth-crud-rbac](https://github.com/anthon-louise/practice-fullstack-auth-crud-rbac): authentication and role-based access control
 
 ---
