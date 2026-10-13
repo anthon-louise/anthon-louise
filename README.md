@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthoniño Louise Noynay</h1>
-<h3 align="center">Aspiring Full Stack Developer | IT Student at Palompon Institute of Technology</h3>
+<h3 align="center">Aspiring Full Stack Developer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,docker,html,css,python,java,git,github" alt="Tech Stack" />
